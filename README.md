@@ -61,9 +61,8 @@ The project focuses on the following tasks:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/sales-data-analysis.git
+   git clone https://github.com/MdFahimShahoriar/Sales-Data-Analysis.git
    ```
-
 2. Review the data:
    - Inspect the `Orders.csv` file for an understanding of the raw data.
    - Open the `Sales Report.pbix` file in Power BI Desktop to explore the dashboards.
